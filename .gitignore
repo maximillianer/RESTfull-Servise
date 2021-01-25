@@ -1,0 +1,10 @@
+# IntelliJ
+/out/
+target/
+.idea/
+*.iml
+
+# project specific files
+_sandbox/
+logs/
+reports/
